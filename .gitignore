@@ -1,0 +1,5 @@
+performance_log
+slarec_env
+slarec_model
+*.npy
+.ipynb_checkpoints
